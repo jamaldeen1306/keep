@@ -1,0 +1,31 @@
+.note{
+    background: white;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px;
+    padding: 10px;
+    width: 240px;
+    margin: 16px;
+    float: left;
+}
+.note h1{
+    font-size: 1.1em;
+    margin-bottom: 6px;
+    color: black;
+}
+.note p{
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-warp;
+    word-wrap: break-word;
+    color: black;
+}
+.note button{
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: skyblue;
+    width: 36px;
+    height: 36px;
+    cursor:pointer;
+    outline: none;
+}
